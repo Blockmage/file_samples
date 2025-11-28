@@ -1,0 +1,8 @@
+*
+!*/
+
+!/.gitignore
+!/LICENSE
+!/README.md
+!/shai_hulud_v2/*.js
+!/shai_hulud_v2/*.sha256
